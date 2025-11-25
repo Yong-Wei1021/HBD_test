@@ -1,2 +1,2 @@
-# HBD_test
-For a girl
+# Birthday I/O test
+Have fun
